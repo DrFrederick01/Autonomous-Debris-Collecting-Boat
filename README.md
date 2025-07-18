@@ -3,7 +3,12 @@
 This was a group engineering project to design, build, and test a **proof-of-concept ship** that collects floating debris (40mm table tennis balls) in a water tank. I was responsible for the **control system**, including Arduino wiring and code.
 
 <br>
-<img src="Screenshot 2025-07-16 160907.png" height="80%" width="80%" />
+<p align="center">
+  <img src="Technical Drawing.png" width="45%" />
+  &nbsp; &nbsp; <!-- optional spacing -->
+  <img src="MVP.png" width="45%" />
+</p>
+
 <br> 
 ##  Role & Responsibilities
 - Connected and programmed the **Arduino IO3 Mini** with the **motor controller**.
