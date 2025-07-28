@@ -32,7 +32,7 @@ This was a group engineering project to design, build, and test a **proof-of-con
 - Arduino IDE (C++)
 - Motor Controller + Sensors
 
-## 🧪 Prototype Journey: From Whiteboard to Water
+## 🧪 Prototype Journey:
 
 This section documents the iterative engineering process behind the autonomous debris-collecting boat — from initial ideation to working prototypes and final testing in water.
 
